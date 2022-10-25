@@ -12,6 +12,7 @@ XDR is an open data format, specified in [RFC 4506](http://tools.ietf.org/html/r
 ## Installation
 [Available in Hex][hex], Add `elixir_xdr` to your dependencies list in `mix.exs`:
 
+
 ```elixir
 def deps do
   [
